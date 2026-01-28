@@ -1,0 +1,7 @@
+{
+  "name": "Hybrid Music Demo APK",
+  "description": "A cross-platform music player combining local MP3 playback and YouTube integration, built with React, Tailwind, Howler.js, and Capacitor for Android deployment.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
